@@ -1,3 +1,7 @@
+to test a name pass it as a command line argument using double quotes
+i.e. node client/index "Norman Block"
+
+
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
